@@ -1,0 +1,66 @@
+{  
+
+
+	 "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "appid": "pub-8074230319419198",
+        "admobappid": "ca-app-pub-8074230319419198~3870167875",
+        "interid": "74f2abbd06bc77f0",
+        "bannerid": "ad2473cd74b31e2f",
+    
+
+        "inter_splash":"0",
+        "pengaturan_iklan":"3",
+        
+        "deskripsi_update": "Update App",
+        "link_update": "http://tiny.cc/HotFlix",
+        "version_app":2,
+        
+        "fan_inter":"292881375252376_292889668584880",
+        "fan_banner":"292881375252376_422968032243709",
+
+        "interval":4,
+        "startappid":"207906230",
+
+        
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ],
+    "More":
+  [
+    {
+      "id":1,
+      "judul":"HP DP Mulai Rp,0-",
+      "image":"https://akulaku.oss-ap-southeast-5.aliyuncs.com/faceE5o73IjCJSjgW_3PNlMxP_o2XLxchOQv23vqXgycDiY.jpg?Expires=1640333856&OSSAccessKeyId=LTAI820alUlqisjH&Signature=yVSbe9znutCA13iJWpK2zBBwrhY%3D",
+      "link":"https://al.plus/3HofA4"
+    }
+  ],
+  "Weblink":
+  [
+    {
+      "id":1,
+      "judul":"Video Lucu",
+      "deskripsi":"10 Artis Korea Paling Cantik & Drama yang Dibintanginya",
+      "image":"https://www.laksani.com/wp-content/uploads/2015/04/Park-Min-Young.jpg",
+      "link":"https://app.yolink.xyz/10-artis-korea-paling-cantik-drama-yang-dibintanginya/"
+    },
+    {
+      "id":2,
+      "judul":"Funny Video",
+      "deskripsi":"12 Drama Korea Terbaru di 2020 yang Wajib Ditonton",
+      "image":"https://akcdn.detik.net.id/community/media/visual/2019/12/04/a0e3318d-eeab-400f-b64a-792ddc34752a.jpeg",
+      "link":"https://app.yolink.xyz/12-drama-korea-terbaru-di-2020-yang-wajib-ditonton/"
+    }
+  ]
+    
+   
+}
