@@ -1,5 +1,5 @@
 <?php
- include 'src/VideoStreamer.php'; 
+ include 'vs.php'; 
 set_time_limit(0);
 
 $url = isset($_GET['url']) ? $_GET['url'] : null;
