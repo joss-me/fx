@@ -1,60 +1,91 @@
 {  
 
-
-	 "Iklan": [
-        {
-        "status": "0",
-        "link": "https://play.google.com/store/apps/details?id=",
-
-        "appid": "pub-8074230319419198",
-        "admobappid": "ca-app-pub-8074230319419198~3870167875",
-        "interid": "74f2abbd06bc77f0",
-        "bannerid": "ad2473cd74b31e2f",
-    
-
-        "inter_splash":"0",
-        "pengaturan_iklan":"3",
-        
-        "deskripsi_update": "Update App",
-        "link_update": "http://tiny.cc/HotFlix",
-        "version_app":1,
-        
-       "fan_inter":"453611232637710_453611439304356",
-        "fan_banner":"453611232637710_454016275930539",
-
-        "interval":4,
-        "startappid":"207906230",
-
-        
-        "hpk_admob1":"",
-        "hpk_admob2":"",
-        "hpk_admob3":"",
-        "hpk_admob4":"",
-        "hpk_admob5":""
-  
-
-        }
-    ],
+"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"1e5ba16294672f81",
+      "backup_ads_intertitial":"5ff9579149d28e82",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
     "More":
   [
     {
-      "id":1,
-      "judul":"HP DP Mulai Rp,0-",
-      "image":"https://akulaku.oss-ap-southeast-5.aliyuncs.com/faceE5o73IjCJSjgW_3PNlMxP_o2XLxchOQv23vqXgycDiY.jpg?Expires=1640333856&OSSAccessKeyId=LTAI820alUlqisjH&Signature=yVSbe9znutCA13iJWpK2zBBwrhY%3D",
-      "link":"https://al.plus/3HofA4"
+      "title":"MP3 Multi Ads",
+      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92574196_261157678610912_115796497303339008_o.jpg",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/261159425277404"
+    },
+    {
+      "title":"Wallpaper Json",
+      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92571715_255544925838854_5503643562077585408_o.jpg",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/255549092505104"
+    },
+    {
+      "title":"Guide Json",
+      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/91080900_251144816278865_2820888782906064896_o.jpg",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/251155719611108"
+    },
+    {
+      "title":"Guide Blogspot",
+      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/89941644_236400271086653_8098666792345403392_o.jpg",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/236402677753079"
+    },
+    {
+      "title":"Wallpaper Blogspot",
+      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/94314724_271704954222851_8758771117910392832_o.jpg",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/230801341646546"
     }
   ],
   "Weblink":
   [
     {
-      "id":1,
-      "judul":"Video Lucu",
-      "deskripsi":"Foto cewek cantik nan lucu",
-      "image":"https://im.rediff.com/movies/2013/oct/23rgv-sexy-actresses8.jpg",
-      "link":"https://postimg.cc/gallery/wLnsWyM"
+      "title":"Google Search",
+      "description":"Google Search adalah mesin pencari yang paling banyak digunakan di dunia maya",
+      "image":"https://lh3.googleusercontent.com/6UgEjh8Xuts4nwdWzTnWH8QtLuHqRMUB7dp24JYVE2xcYzq4HA8hFfcAbU-R-PC_9uA1",
+      "link":"http://v5.xfilx.xyz"
+    },
+    {
+      "title":"Google Drive",
+      "description":"Google Drive merupakan layanan penyimpanan online (cloud) milik Google yang telah diluncurkan sejak April 2012 yang lalu",
+      "image":"https://cdn0-production-images-kly.akamaized.net/Hh0jq3AQJxg0_YB_saUW7heb1jU=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/945648/original/055752100_1438682698-google-drive-logo-2014.jpg",
+      "link":"https://drive.google.com/"
+    },
+    {
+      "title":"Adsense",
+      "description":"AdSense adalah program kerjasama periklanan melalui media Internet yang diselenggarakan oleh Google",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQguPPNX0Oj13E1MxO3RsG1kyPL6F-_nyxZBg&usqp=CAU",
+      "link":"https://www.google.com/adsense/start/"
+    },
+    {
+      "title":"Firebase",
+      "description":"Firebase adalah platform seluler Google yang membantu Anda mengembangkan aplikasi berkualitas tinggi dan menumbuhkan bisnis dengan cepat",
+      "image":"https://pngimage.net/wp-content/uploads/2018/06/firebase-png-6.png",
+      "link":"https://firebase.google.com/"
+    },
+    {
+      "title":"Admob",
+      "description":"Google AdMob adalah salah satu cara dapatkan uang dari aplikasi. Pelajari cara daftar Google AdMob dan cara menggunakannya di sini!",
+      "image":"https://lh3.googleusercontent.com/D71NOtwLFHvG8WfOO2fmSUTmbhT6ezmC0--7Si2A1BDjTSVcp6fJgAa4H-aVz-sZ2a7tcoXc7f_HBGq27lctq7mrqaOJD7tcfR_lOQ=w700-h700-p-nu-pa",
+      "link":"https://admob.google.com/intl/id/home/"
+    },
+    {
+      "title":"Google Ads",
+      "description":"Google Ads memudahkan dalam menampilkan keunikan bisnis Anda kepada publik, sehingga Anda dapat menjangkau pelanggan yang menelusuri produk",
+      "image":"https://pbs.twimg.com/profile_images/1021822138964004865/UimQskO_.jpg",
+      "link":"https://ads.google.com/intl/id_id/home/how-it-works/"
     }
-   
   ]
     
-   
 }
