@@ -4,8 +4,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_banner": "ca-app-pub-8738277021302370/7977402333",
+      "main_ads_intertitial":"ca-app-pub-8738277021302370/9677975746",
       "backup_ads_banner":"1e5ba16294672f81",
       "backup_ads_intertitial":"5ff9579149d28e82",
       "interval_intertitial": 5,
@@ -26,36 +26,11 @@
       "title":"MP3 Multi Ads",
       "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92574196_261157678610912_115796497303339008_o.jpg",
       "link":"https://www.facebook.com/aliendroidstudio/posts/261159425277404"
-    },
-    {
-      "title":"Wallpaper Json",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92571715_255544925838854_5503643562077585408_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/255549092505104"
-    },
-    {
-      "title":"Guide Json",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/91080900_251144816278865_2820888782906064896_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/251155719611108"
-    },
-    {
-      "title":"Guide Blogspot",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/89941644_236400271086653_8098666792345403392_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/236402677753079"
-    },
-    {
-      "title":"Wallpaper Blogspot",
-      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/94314724_271704954222851_8758771117910392832_o.jpg",
-      "link":"https://www.facebook.com/aliendroidstudio/posts/230801341646546"
     }
+    
   ],
   "Weblink":
   [
-    {
-      "title":"Google Search",
-      "description":"Google Search adalah mesin pencari yang paling banyak digunakan di dunia maya",
-      "image":"https://lh3.googleusercontent.com/6UgEjh8Xuts4nwdWzTnWH8QtLuHqRMUB7dp24JYVE2xcYzq4HA8hFfcAbU-R-PC_9uA1",
-      "link":"http://v5.xfilx.xyz/"
-    },
     {
       "title":"Google Drive",
       "description":"Google Drive merupakan layanan penyimpanan online (cloud) milik Google yang telah diluncurkan sejak April 2012 yang lalu",
