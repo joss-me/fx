@@ -2,20 +2,20 @@
 
 "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-8738277021302370/7977402333",
-      "main_ads_intertitial":"ca-app-pub-8738277021302370/9677975746",
-      "backup_ads_banner":"1e5ba16294672f81",
-      "backup_ads_intertitial":"5ff9579149d28e82",
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "1e5ba16294672f81",
+      "main_ads_intertitial":"5ff9579149d28e82",
+      "backup_ads_banner":"208976476",
+      "backup_ads_intertitial":"208976476",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "forex",
+      "high_paying_keyword_2": "lawyer",
+      "high_paying_keyword_3": "loan",
+      "high_paying_keyword_4": "health",
+      "high_paying_keyword_5": "insurance",
       "status_app": "0",
       "link_redirect": "https://"
     }
