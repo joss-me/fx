@@ -2,13 +2,13 @@
 
 "Ads": [
     {
-      "select_main_ads":"STARTAPP",
+      "select_main_ads":"APPLOVIN-M",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner":"201340005",
-      "main_ads_intertitial":"201340005",
+      "main_ads_banner":"4c232552ea262e61",
+      "main_ads_intertitial":"0e0cb1dfd9f4790b",
       "backup_ads_banner":"4c232552ea262e61", 
       "backup_ads_intertitial":"0e0cb1dfd9f4790b", 
-      "interval_intertitial": 3,
+      "interval_intertitial": 9,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "forex",
